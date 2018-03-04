@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">BottomNavigationSetiings</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_Profile">Profile</string>
+    <string name="pref_description_edit_profile">edit profile
+    </string>
+    <string name="pref_title_Email">Email</string>
+    <string name="pref_title_Skills">Skills</string>
+    <string name="pref_title_Mobile_no">Mobile no</string>
+    <string name="pref_title_Work">Work</string>
+
+
+
+
+    <string name="pref_title_Mobile_no_privacy">Mobile no privacy</string>
+    <string name="pref_title_ChangePassword">Change Password</string>
+    <string name="pref_title_signout">SignOut</string>
+    <string name="key_profile_name">Profile name</string>
+    <string name="key_Email">Email</string>
+    <string name="key_Skills">Skills</string>
+    <string name="key_Mobile_no">Mobile no</string>
+    <string name="key_Work">Your Works</string>
+    <string name="key_PasswordChange">Change your Password</string>
+
+
+
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>
